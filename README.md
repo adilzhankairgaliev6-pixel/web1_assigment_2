@@ -1,16 +1,16 @@
 # StrideHouse — Web Assignment 2
 
 ## Student Info
-- **Name:** Adilzhan Kairgaliyev[cite: 6]
+- **Name:** Adilzhan Kairgaliyev
 - **Group:** SE-2540
 ---
 ## 📋 Project Overview
-StrideHouse is an Adidas-themed e-commerce web application developed to demonstrate advanced CSS layout techniques, including Flexbox and CSS Grid, without relying on external frameworks[cite: 6].
+StrideHouse is an Adidas-themed e-commerce web application developed to demonstrate advanced CSS layout techniques, including Flexbox and CSS Grid, without relying on external frameworks.
 ---
 ## 🛠️ Tasks & Implementation
 ### Part 1. Flexbox
-- **Task 0. Navigation Bar:** Created a responsive header with a logo on the left and navigation links on the right, aligned horizontally and vertically centered using Flexbox[cite: 6].
-- **Task 1. Card Row:** Built a container with product cards (image, title, text, button) aligned in a row with equal heights, consistent gaps, and interactive hover effects[cite: 6].
+- **Task 0. Navigation Bar:** Created a responsive header with a logo on the left and navigation links on the right, aligned horizontally and vertically centered using Flexbox.
+- **Task 1. Card Row:** Built a container with product cards (image, title, text, button) aligned in a row with equal heights, consistent gaps, and interactive hover effects.
   
 **Screenshots for Part 1:**
 <img width="1901" height="1136" alt="part1" src="https://github.com/user-attachments/assets/5b100b46-8bae-4047-aab5-a69af0cb998b" />
@@ -22,8 +22,8 @@ StrideHouse is an Adidas-themed e-commerce web application developed to demonstr
 ---
 
 ### Part 2. Grid System
-- **Task 2. Page Layout with Grid Areas:** Configured a layout consisting of a header, sidebar, main content, and footer using CSS Grid areas[cite: 6].
-- **Task 3. Image Gallery:** Implemented a multi-column image gallery grid layout with consistent gaps and hover effects[cite: 6].
+- **Task 2. Page Layout with Grid Areas:** Configured a layout consisting of a header, sidebar, main content, and footer using CSS Grid areas.
+- **Task 3. Image Gallery:** Implemented a multi-column image gallery grid layout with consistent gaps and hover effects.
 
 **Screenshots for Part 2:**
 <img width="1903" height="775" alt="part2" src="https://github.com/user-attachments/assets/85298eef-2a43-43f7-abf3-ef5c7a427ec6" />
@@ -36,7 +36,7 @@ StrideHouse is an Adidas-themed e-commerce web application developed to demonstr
 ---
 
 ### Part 3. Combining Flexbox & Grid
-- **Task 4. Portfolio Page:** Combined Flexbox (for the navigation bar and inside project cards) and CSS Grid (for the main section containing the projects area on the left and sidebar on the right)[cite: 6].
+- **Task 4. Portfolio Page:** Combined Flexbox (for the navigation bar and inside project cards) and CSS Grid (for the main section containing the projects area on the left and sidebar on the right).
 
 **Screenshots for Part 3:**
 <img width="1896" height="591" alt="part3" src="https://github.com/user-attachments/assets/53f475c7-f830-4af9-bd76-ae5f5c07c6cc" />
